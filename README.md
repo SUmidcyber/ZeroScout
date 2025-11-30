@@ -76,8 +76,8 @@ Bu projeyi bir Python paketi olarak kurmak, tüm bağımlılıkları otomatik ol
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/yourusername/zeroscout.git](https://github.com/yourusername/zeroscout.git)
-cd zeroscout
+git clone https://github.com/SUmidcyber/ZeroScout.git
+cd ZeroScout
 
 # 2. Install dependencies (Kurulum için burayı kullan)
 # Bu, ZeroScout'u sisteminizde bir komut olarak erişilebilir kılar.
