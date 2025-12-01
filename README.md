@@ -72,7 +72,7 @@ Due to the dynamic nature of the dashboard, it is highly recommended to showcase
 
 ## 📦 Installation
 
-Bu projeyi bir Python paketi olarak kurmak, tüm bağımlılıkları otomatik olarak yükler ve CLI aracını kullanıma hazır hale getirir.
+Installing this project as a Python package automatically installs all dependencies and makes the CLI tool ready to use.
 
 ```bash
 # 1. Clone the repository
